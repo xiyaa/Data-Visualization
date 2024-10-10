@@ -1,0 +1,10 @@
+name: census-app
+title:
+username: xiyasun
+account: xiyasun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12984634
+bundleId:
+url: https://xiyasun.shinyapps.io/census-app/
+version: 1
